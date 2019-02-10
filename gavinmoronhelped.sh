@@ -1,6 +1,6 @@
 #!/bin/bash
-touch file.test
-echo "woah im in a file hahahahaha" > file.txt
+touch file.txt
+echo "-\('-')/- hhhaaahahahahhahahahahahahahahahhhhhhaaaaaaaahhahahahahahahahahahahahahahahahahahhahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahahahahhhahahahahahahhahahahahhahhhhahahahahahahahahahahahahahahahhhhhhhhaaaaaaahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahhahahahahahahahahahahahhahahahahahahahahahahahahahahahahahshahahahahahahahahahahahahahahaha" > file.txt
 while true
 do
 	cat file.txt
